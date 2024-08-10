@@ -1,0 +1,68 @@
+*
+{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+body
+{
+	/*background-image: url(background.jpg); */
+	background-image: linear-gradient(rgba(0,0,0,0.7), #3551b5), url(Files/background.jpg);
+	background-position: center;
+	font-family: sans-serif;
+}
+.website{
+	color: #2bab0d;
+	height: 10vh;
+	text-align: center;
+	font-size: 50px;
+}
+
+.heading{
+	margin: 5vh;
+ 	color: #000000;
+}
+.Solutions{
+	margin: 100px;
+	text-align: center;
+	font-size: 1.1rem;
+	color: #000000;
+}
+.sub-heading{
+	text-align: center;
+	font-size: 1.5rem;
+	padding: 10px;
+}
+/*.sub-heading-1{
+	text-align: center;
+	font-size: 1.3rem;
+	padding: 10px;
+}*/
+.Additionall{
+	margin: 10px;
+	color: #000000;
+	padding: 100px;
+}
+.Books{
+	margin: 10px;
+	color: #2bab0d;
+}
+
+.About-us{
+	margin: 80px 200px;
+	color: #2bab0d;
+}
+
+.About{
+	margin: 40px;
+	color: #fff;
+}
+
+
+.Copyright-Text{
+	width: 100%;
+	background: #fff;
+	padding: 8px 100px;
+	text-align: center;
+	color: #181818;
+}

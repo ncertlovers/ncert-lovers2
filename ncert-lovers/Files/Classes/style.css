@@ -1,0 +1,35 @@
+*
+{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background-image: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5));
+	background-size: cover;
+	background-position: center;
+	font-family: sans-serif;
+}
+
+.website{
+	color: #2bab0d;
+	height: 10vh;
+	text-align: center;
+	font-size: 50px;
+}
+
+.NCERT{
+	margin: 100px;
+	text-align: center;
+	color: #000000;
+}
+
+.Copyright-Text{
+	width: 100%;
+    display: flex;
+    justify-content: center;
+	padding: 8px 100px;
+	background: #fff;
+	color: #181818;
+}
